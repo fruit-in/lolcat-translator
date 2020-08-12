@@ -1,17 +1,17 @@
 # LOLCAT-TRANSLATOR
-[中文](README_CN.md)
+[English](README.md)
 
-A LOLCAT TRANSLATOR WRITTEN IN LOLCODE
+一个用LOLCODE实现的LOLCAT翻译器
 
-## REQUIREMENT
+## 依赖
 * [lci](https://github.com/justinmeza/lci/tree/future)
 
-## USAGE
+## 用法
 ```
 $ lci translator.lol
 ```
 
-## EXAMPLE
+## 示例
 ```
 $ lci translator.lol
 My name is Van, I'm an artist, I'm a performance artist. I'm hired for people to fulfill their fantasies, their deep dark fantasies.
